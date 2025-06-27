@@ -1,0 +1,21 @@
+body{
+        background-color:rgba(75, 8, 245, 0.336)
+    }
+    .centering{
+        width:400px;
+        height:450px;
+        text-align:center;
+        margin-left:25%;
+        background-color:black;
+        margin-top:50px;
+    }
+    table, tr, td{
+        border: none;
+        padding: 15px;
+
+    }
+
+    td, h1{
+        color:white;
+        
+    }
